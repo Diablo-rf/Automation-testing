@@ -1,0 +1,807 @@
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/list/transport/cars ,Website should open,Passed
+2,Select Filter: BMW ,Filter should be selected,Passed
+3,Select Filter: Sell ,Filter should be selected,Passed
+4,Select Filter: Republic of Moldova ,Filter should be selected,Passed
+3,Select Option: Comfort ,Option should expand,Passed
+3,Select Filter: Conditioner ,Filter should be selected,Passed
+Test number 1,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75648993,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 2,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75646452,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 3,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75453659,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 4,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75500977,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 5,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75501691,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 6,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75616645,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 7,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75532687,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 8,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75646231,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 9,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74805554,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 10,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75457859,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 11,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73995049,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 12,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75363692,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 13,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75190678,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 14,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75293728,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 15,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75638639,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 16,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75226599,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 17,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/72000049,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 18,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74407664,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 19,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75624571,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 20,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75395745,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 21,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75326974,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 22,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/72540662,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 23,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74278767,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 24,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75488240,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 25,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75564327,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 26,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75648622,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 27,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75282759,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 28,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75123548,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 29,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75348334,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 30,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75327571,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 31,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/72616024,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 32,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75614685,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 33,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73804715,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 34,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75578987,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 35,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75639340,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 36,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75683677,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 37,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75683614,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 38,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75051408,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 39,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74857084,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 40,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75683377,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 41,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73509992,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 42,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74654187,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 43,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75235032,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 44,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75096998,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 45,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74823130,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 46,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75324747,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 47,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75564220,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 48,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75550709,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 49,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74850718,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 50,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75682760,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 51,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74867945,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 52,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74658410,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 53,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75620169,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 54,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73330721,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 55,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75668050,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 56,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74221084,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 57,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74537609,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 58,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/72640279,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 59,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75310001,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 60,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75681004,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 61,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74148527,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 62,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/71711559,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 63,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74675213,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 64,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/61775642,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 65,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75680876,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 66,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75340955,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 67,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/69167643,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 68,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74087492,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 69,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75320980,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 70,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/68663213,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 71,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74935308,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 72,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/65194045,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 73,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/72971891,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 74,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/62697437,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 75,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73627455,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 76,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75348144,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 77,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/65452473,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 78,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/72747891,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 79,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75373818,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 80,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75374754,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 81,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75660960,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 82,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74814441,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 83,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74323333,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 84,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/71910296,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 85,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75635041,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 86,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/70665032,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 87,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74440890,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 88,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75530531,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 89,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75648587,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 90,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75362398,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 91,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75651933,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 92,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75186559,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 93,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75333316,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 94,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74849337,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 95,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73956698,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 96,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73886669,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 97,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73899886,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 98,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/75442381,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 99,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/73308188,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,
+Test number 100,,,
+Step number,Steps To Reproduce,Expected Result,Status
+1,Go to: https://999.md/ru/74850511,Page should open,Passed 
+2,Check for Car Brand,BMW,Passed
+3,Check for Offer Type,Sell,Passed
+4,Check for Location,Republic of Moldova,Passed
+5,Check for Filter Option,Conditioner,Passed
+Test PASSED,,,

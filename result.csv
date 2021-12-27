@@ -1,0 +1,90 @@
+﻿1,https://point.md/,Expected Result,Actual Result,Status
+ ,Title,Новости Молдовы - Point.md,Point.md: Новости Молдовы,Failed
+ ,Description,"Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны","Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны.",Failed
+2,https://point.md/ru/,Expected Result,Actual Result,Status
+ ,Title,Новости Молдовы - Point.md,Point.md: Новости Молдовы,Failed
+ ,Description,"Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны","Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны.",Failed
+3,https://point.md/ru/curs/,Expected Result,Actual Result,Status
+ ,Title,"Курсы валют в Молдове. Курс доллара и курс евро, курс рубля и гривны",Курс валют - Point.md,Failed
+ ,Description,"Курс валют от 16 банков Молдовы. Свежий курс доллара, евро, рубля, гривны, и лея от Banca de economii, Deghest, Banca Socială и др. Онлайн конвертер валют","Курс валют от 16 банков Молдовы. Свежий курс доллара, евро, рубля, гривны, и лея от Banca de economii, Deghest, Banca Socială и др. Онлайн конвертер валют.",Failed
+4,https://point.md/ru/novosti/,Expected Result,Actual Result,Status
+ ,Title,Новости Молдовы - Point.md,Новости Молдовы - Point.md,Passed
+ ,Description,"Политика и общество, экономика, образование, происшествия, наука, спорт. Только актуальные новости и события.Курс валют, карта Молдовы, ТВ-программа.","Политика и общество, экономика, образование, происшествия, наука, спорт. Только актуальные новости и события.Курс валют, карта Молдовы, ТВ-программа.",Passed
+5,https://point.md/ru/tv/,Expected Result,Actual Result,Status
+ ,Title,Программа Телепередач в Молдове Телепрограмма,Программа Телепередач в Молдове Телепрограмма,Passed
+ ,Description,"Расписание программ ТВ. Программа Телепередач в Молдове Телепрограмма: программа ТВ-передач на сегодня, на завтра, на неделю - настройки телеканалов, все телепередачи по жанрам и по времени.","ТНТ Exclusiv TV. 07:00Соседи; 07:30""Acasa""; 08:30Exclusiv news; 09:00Т/с ""СашаТаня""; 10:00Т/с ""Патриот""; 12:30Teleshopping; 13:00""Acasa""; 14:00Т/с ""Жуки"" ...",Failed
+6,https://point.md/ro/tv/,Expected Result,Actual Result,Status
+ ,Title,Programul de emisiuni TV în Moldova,Programul de emisiuni TV în Moldova - Point.md,Failed
+ ,Description,"Programul de emisiuni TV. Programul de emisiuni TV în Moldova pe azi, pe maine, pe o săptămână - setarea telecanalelor.","20:30Где логика? 21:30""Однажды в России""; 22:30Новости; 23:00""Comedy Woman""; 00:00Импровизация; 03:15Comedy Баттл; 04:00Открытый микрофон ...",Failed
+7,https://point.md/ro/curs/,Expected Result,Actual Result,Status
+ ,Title,"Toate cursurile valutare din Republica Moldova. Curs euro și dolar, curs rublă și hrivnă",Toate cursurile valutare din Republica Moldova. Curs euro și ...,Failed
+ ,Description,"Curs valutar bănci din Republica Moldova - BNM, Deghest, Banca Socială etc. Curs valutar actualizat la zi pentru principalele valute (curs euro, curs dolar, curs rublă, curs lei)","Curs valutar bănci din Republica Moldova - BNM, Deghest, Banca Socială etc. Curs valutar actualizat la zi pentru principalele valute (curs euro, curs dolar, ...",Failed
+8,https://point.md/ro/tv/you,Expected Result,Actual Result,Status
+ ,Title,"Programul TV Ю Programul de emisiuni Ю pentru ziua de azi, pentru toată săptămâna",Programul TV Ю Programul de emisiuni Ю pentru ... - Point.md,Failed
+ ,Description,"Canalul TV Ю: programul de emisiuni al canalului Ю pentru o săptămână, programul TV de emisiuni al canalului Ю pentru astăzi și mâine","""Ю"" - post de televiziune rusesc federal, care cuprinde emisiuni umoristice şi de divertisment, reality-show-uri, filme artistice şi de animaţie, seriale ...",Failed
+9,https://point.md/ro/tv/tv8,Expected Result,Actual Result,Status
+ ,Title,"Programul TV TV8 Programul de emisiuni TV8 pentru ziua de azi, pentru toată săptămâna",Programul TV TV8 Programul de emisiuni TV8 pentru ziua de azi ...,Failed
+ ,Description,"Canalul TV TV8: programul de emisiuni al canalului TV8 pentru o săptămână, programul TV de emisiuni al canalului TV8 pentru astăzi și mâine",TV8. 05:00Новости DW; 05:20Cutia neagra; 07:00Stirile TV8; 08:00Вечер. Настоящее время; 08:45Dincolo de Nistru; 09:00Новости; 09:30Готовим с серфингистами ...,Failed
+10,https://point.md/ru/tv/canal3,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Canal 3 Программа передач Canal 3 на сегодня, на неделю.",Телепрограмма Canal 3 Программа передач ... - Point.md,Failed
+ ,Description,"Телеканал Canal 3: программа телепередач канала Canal 3 на сегодня и на завтра, программа ТВ передач канала Canal 3 на неделю.","Телеканал Canal 3: программа телепередач канала Canal 3 на сегодня и на завтра, программа ТВ передач канала Canal 3 на неделю.",Passed
+11,https://point.md/ro/tv/tv1000,Expected Result,Actual Result,Status
+ ,Title,"Programul TV TV1000 Programul de emisiuni TV1000 pentru ziua de azi, pentru toată săptămâna",TV1000 - Point.md,Failed
+ ,Description,"Canalul TV TV1000: programul de emisiuni al canalului TV1000 pentru o săptămână, programul TV de emisiuni al canalului TV1000 pentru astăzi și mâine","Canalul TV TV1000: programul de emisiuni al canalului TV1000 pentru o săptămână, programul TV de emisiuni al canalului TV1000 pentru astăzi și mâine.",Failed
+12,https://point.md/ru/tv/national,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма National TV Программа передач National TV на сегодня, на неделю.",Телепрограмма National TV Программа передач ... - Point.md,Failed
+ ,Description,"Телеканал National TV: программа телепередач канала National TV на сегодня и на завтра, программа ТВ передач канала National TV на неделю.","Телеканал National TV: программа телепередач канала National TV на сегодня и на завтра, программа ТВ передач канала National TV на неделю.",Passed
+13,https://point.md/ru/tv/n4,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма N4 Программа передач N4 на сегодня, на неделю.","Телепрограмма N4 Программа передач N4 на сегодня, на ...",Failed
+ ,Description,"Телеканал N4: программа телепередач канала N4 на сегодня и на завтра, программа ТВ передач канала N4 на неделю.","Телеканал N4: программа телепередач канала N4 на сегодня и на завтра, программа ТВ передач канала N4 на неделю.",Passed
+14,https://point.md/ru/tv/moyaplaneta,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Моя планета Программа передач Моя планета на сегодня, на неделю.",Телепрограмма Моя планета Программа ... - Point.md,Failed
+ ,Description,"Телеканал Моя планета: программа телепередач канала Моя планета на сегодня и на завтра, программа ТВ передач канала Моя планета на неделю.","Телеканал Моя планета: программа телепередач канала Моя планета на сегодня и на завтра, программа ТВ передач канала Моя планета на неделю.",Passed
+15,https://point.md/ro/tv/disney,Expected Result,Actual Result,Status
+ ,Title,"Programul TV Disney Channel Programul de emisiuni Disney Channel pentru ziua de azi, pentru toată săptămâna",Disney Channel - Point.md,Failed
+ ,Description,"Canalul TV Disney Channel: programul de emisiuni al canalului Disney Channel pentru o săptămână, programul TV de emisiuni al canalului Disney Channel pentru astăzi și mâine","Canalul TV Disney Channel: programul de emisiuni al canalului Disney Channel pentru o săptămână, programul TV de emisiuni al canalului Disney Channel pentru ...",Failed
+16,https://point.md/ro/tv/ctc,Expected Result,Actual Result,Status
+ ,Title,"Programul TV СТС Mega Programul de emisiuni СТС Mega pentru ziua de azi, pentru toată săptămâna",СТС Mega - Point.md,Failed
+ ,Description,"Canalul TV СТС Mega: programul de emisiuni al canalului СТС Mega pentru o săptămână, programul TV de emisiuni al canalului СТС Mega pentru astăzi și mâine","Canalul TV СТС Mega: programul de emisiuni al canalului СТС Mega pentru o săptămână, programul TV de emisiuni al canalului СТС Mega pentru astăzi și mâine.",Failed
+17,https://point.md/ru/tv/tv3,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма ТВ3 Программа передач ТВ3 на сегодня, на неделю.",Телепрограмма ТВ3 Программа передач ТВ3 на сегодня ...,Failed
+ ,Description,"Телеканал ТВ3: программа телепередач канала ТВ3 на сегодня и на завтра, программа ТВ передач канала ТВ3 на неделю.","Телеканал ТВ3: программа телепередач канала ТВ3 на сегодня и на завтра, программа ТВ передач канала ТВ3 на неделю.",Passed
+18,https://point.md/ru/catalog/Entertainment_and_recreation/,Expected Result,Actual Result,Status
+ ,Title,Развлечения и отдых,Развлечения и отдых - Point.md,Failed
+ ,Description,"Каталог сайтов, посвященных развлечениям и отдыху в Молдове. Каталог включает сайты турфирм, продаж авиабилетов, гостиниц, баров, ресторанов, клубов Молдовы","Каталог сайтов, посвященных развлечениям и отдыху в Молдове. Каталог включает сайты турфирм, продаж авиабилетов, гостиниц, баров, ресторанов, ...",Failed
+19,https://point.md/ro/tv/jurnaltv,Expected Result,Actual Result,Status
+ ,Title,"Programul TV JurnalTV Programul de emisiuni JurnalTV pentru ziua de azi, pentru toată săptămâna",Programul TV JurnalTV Programul de emisiuni ... - Point.md,Failed
+ ,Description,"Canalul TV JurnalTV: programul de emisiuni al canalului JurnalTV pentru o săptămână, programul TV de emisiuni al canalului JurnalTV pentru astăzi și mâine","программа тв JurnalTV (на молд.) Jurnal TV este un post de televiziune informaţional, care îi propune telespectatorului o gamă largă de filme, seriale ...",Failed
+20,https://point.md/ru/tv/mir,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Мир Программа передач Мир на сегодня, на неделю.",Телепрограмма Мир Программа передач Мир на сегодня ...,Failed
+ ,Description,"Телеканал Мир: программа телепередач канала Мир на сегодня и на завтра, программа ТВ передач канала Мир на неделю.","Телеканал Мир: программа телепередач канала Мир на сегодня и на завтра, программа ТВ передач канала Мир на неделю.",Passed
+21,https://point.md/ru/tv/ictv,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма ICTV Программа передач ICTV на сегодня, на неделю.",Телепрограмма ICTV Программа передач ICTV на сегодня ...,Failed
+ ,Description,"Телеканал ICTV: программа телепередач канала ICTV на сегодня и на завтра, программа ТВ передач канала ICTV на неделю.","Телеканал ICTV: программа телепередач канала ICTV на сегодня и на завтра, программа ТВ передач канала ICTV на неделю.",Passed
+22,https://point.md/ru/tv/canal2,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Canal 2 Программа передач Canal 2 на сегодня, на неделю.",Телепрограмма Canal 2 Программа передач ... - Point.md,Failed
+ ,Description,"Телеканал Canal 2: программа телепередач канала Canal 2 на сегодня и на завтра, программа ТВ передач канала Canal 2 на неделю.","Телеканал Canal 2: программа телепередач канала Canal 2 на сегодня и на завтра, программа ТВ передач канала Canal 2 на неделю.",Passed
+23,https://point.md/ru/tv/k1,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма К 1 Программа передач К 1 на сегодня, на неделю.","Телепрограмма К 1 Программа передач К 1 на сегодня, на ...",Failed
+ ,Description,"Телеканал К 1: программа телепередач канала К 1 на сегодня и на завтра, программа ТВ передач канала К 1 на неделю.","К 1. 06:30""TOP SHOP"" (12+); 08:00М/с ""Кротик и Панда"" (6+); 08:40""Орел и Решка. Шопинг"" (12+); 10:30Х/ф ""Как выйти замуж за миллиардера"" (18+) ...",Failed
+24,https://point.md/ro/tv/prime,Expected Result,Actual Result,Status
+ ,Title,"Programul TV Prime Programul de emisiuni Prime pentru ziua de azi, pentru toată săptămâna",Programul TV Prime Programul de emisiuni Prime ... - Point.md,Failed
+ ,Description,"Canalul TV Prime: programul de emisiuni al canalului Prime pentru o săptămână, programul TV de emisiuni al canalului Prime pentru astăzi și mâine",Prime. 05:00Telemagazin. Oferta zilei; 07:00Prima Ora; 09:00Doctorii (rom.) 10:00Vorbeste Moldova (rom.) 11:00100 de moldoveni au zis (rom.) ...,Failed
+25,https://point.md/ru/tv/maxxi,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Maxxi-TV Программа передач Maxxi-TV на сегодня, на неделю.",Телепрограмма Maxxi-TV Программа передач ... - Point.md,Failed
+ ,Description,"Телеканал Maxxi-TV: программа телепередач канала Maxxi-TV на сегодня и на завтра, программа ТВ передач канала Maxxi-TV на неделю.","Телеканал Maxxi-TV: программа телепередач канала Maxxi-TV на сегодня и на завтра, программа ТВ передач канала Maxxi-TV на неделю.",Passed
+26,https://point.md/ru/tv/fenixplus,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Феникс+Кино Программа передач Феникс+Кино на сегодня, на неделю.",Телепрограмма Феникс+Кино Программа ... - Point.md,Failed
+ ,Description,"Телеканал Феникс+Кино: программа телепередач канала Феникс+Кино на сегодня и на завтра, программа ТВ передач канала Феникс+Кино на неделю.","Телеканал Феникс+Кино: программа телепередач канала Феникс+Кино на сегодня и на завтра, программа ТВ передач канала Феникс+Кино на неделю.",Passed
+27,https://point.md/ru/catalog/Education_science_and_work/,Expected Result,Actual Result,Status
+ ,Title,"Образование, наука и работа","Образование, наука и работа - Point.md",Failed
+ ,Description,"Каталог сайтов, посвященных образованию, науке и поиску работы в Молдове. Каталог включает сайты школ, лицеев, вузов, других образовательных услуг в Молдове","Каталог сайтов, посвященных образованию, науке и поиску работы в Молдове. Каталог включает сайты школ, лицеев, вузов, других образовательных услуг в ...",Failed
+28,https://point.md/ru/tv/karusel,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Карусель Программа передач Карусель на сегодня, на неделю.",Телепрограмма Карусель Программа передач ... - Point.md,Failed
+ ,Description,"Телеканал Карусель: программа телепередач канала Карусель на сегодня и на завтра, программа ТВ передач канала Карусель на неделю.","Телеканал Карусель: программа телепередач канала Карусель на сегодня и на завтра, программа ТВ передач канала Карусель на неделю.",Passed
+29,https://point.md/ru/tv/protv,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма Pro TV Программа передач Pro TV на сегодня, на неделю.",Телепрограмма Pro TV Программа передач Pro ... - Point.md,Failed
+ ,Description,"Телеканал Pro TV: программа телепередач канала Pro TV на сегодня и на завтра, программа ТВ передач канала Pro TV на неделю.","Телеканал Pro TV: программа телепередач канала Pro TV на сегодня и на завтра, программа ТВ передач канала Pro TV на неделю.",Passed
+30,https://point.md/ru/tv/hth,Expected Result,Actual Result,Status
+ ,Title,"Телепрограмма НТН Программа передач НТН на сегодня, на неделю.",Телепрограмма НТН Программа передач НТН на сегодня ...,Failed
+ ,Description,"Телеканал НТН: программа телепередач канала НТН на сегодня и на завтра, программа ТВ передач канала НТН на неделю.","Телеканал НТН: программа телепередач канала НТН на сегодня и на завтра, программа ТВ передач канала НТН на неделю.",Passed
